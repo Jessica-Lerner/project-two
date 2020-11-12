@@ -1,0 +1,48 @@
+.header {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+#top {
+    font-family: 'Lora', serif;
+    font-size: 2em;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+#middle {
+    font-family: 'Lota', sans-serif;
+    font-size: 1.25em;
+    text-align: left;
+    padding-top: 10px
+}
+
+#byline {
+    font-family: 'Lora', serif;
+    font-size: 1em;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.graphic {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 15px;
+    padding-top: 10px;
+}
+
+figure {
+    display: table;
+    margin: auto;
+    padding-top: 5px;
+    max-width: 100%;
+    height: auto;
+}
+
+figcaption {
+    padding-top: 5px;
+    display: table-caption;
+    caption-side: bottom;
+}
